@@ -1,0 +1,6 @@
+{
+  "name": "የዕለት ማስታወሻ (EthioNote)",
+  "description": "Amharic and Ethiopian Calendar daily notebook app with secure cloud syncing and smart AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
